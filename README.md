@@ -1,5 +1,8 @@
 # stellar-ui-kit
 
+**Live demo:** https://stellar-ui-kit-lyart.vercel.app
+
+
 Ready-made React components for building apps on Stellar.
 
 ## Components
